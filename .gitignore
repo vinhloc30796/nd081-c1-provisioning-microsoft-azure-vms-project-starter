@@ -2,3 +2,4 @@
 config.py.dist
 project/*
 */__pycache__/*
+/__pycache__/*
