@@ -1,3 +1,4 @@
+.azure/*
 config.py.dist
 project/*
 */__pycache__/*
